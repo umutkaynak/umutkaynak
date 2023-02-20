@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutkaynak&label=Profile%20views&color=0e75b6&style=flat" alt="umutkaynak" /> </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk1ZjkzYTFjN2ExNWUwNDc2YjQ1Y2IyZTU0ODQzMTc0YjE1MmQ3MCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  align="right"  widht="400" height="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk1ZjkzYTFjN2ExNWUwNDc2YjQ1Y2IyZTU0ODQzMTc0YjE1MmQ3MCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  align="right"  widht="800" height="200">
 
 
 - 🔭 I’m currently working on [100daysPython](https://github.com/umutkaynak/100DaysPython)

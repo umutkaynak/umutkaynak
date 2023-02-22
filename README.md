@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm umut kaynak</h1>
+<h1 align="center">Hi 👋, I'm UMUT KAYNAK</h1>
 <h3 align="center">PROGRAMMER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutkaynak&label=Profile%20views&color=0e75b6&style=flat" alt="umutkaynak" /> </p>

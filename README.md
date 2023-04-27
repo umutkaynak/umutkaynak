@@ -21,5 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutkaynak&show_icons=true&locale=en&layout=compact" alt="umutkaynak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutkaynak&show_icons=true&locale=en" alt="umutkaynak" /></p>
+<h2> 📈 &nbsp;My GitHub History!</h2>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutkaynak&" alt="umutkaynak" /></p>
